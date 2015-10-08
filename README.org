@@ -1,0 +1,11 @@
+This repository will be used to organize the R project's participation
+in the Google Summer of Code 2016.
+
+** GitHub wiki pages
+
+- [[https://github.com/rstats-gsoc/gsoc2016/wiki][Overview of R-GSOC-2016]].
+- [[https://github.com/rstats-gsoc/gsoc2016/wiki/table-of-proposed-coding-projects][Table of project ideas]].
+
+** Links
+
+- [[http://www.google-melange.com/gsoc/homepage/google/gsoc2016][Official Google Summer of Code 2016 page on melange]].
