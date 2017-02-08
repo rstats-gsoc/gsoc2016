@@ -8,4 +8,4 @@ in the Google Summer of Code 2016.
 
 ** Links
 
-- [[http://www.google-melange.com/gsoc/homepage/google/gsoc2016][Official Google Summer of Code 2016 page on melange]].
+- [[https://summerofcode.withgoogle.com/archive/2016/organizations/6032418200879104/][Official Google Summer of Code 2016 page GSoC archives]].
